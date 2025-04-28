@@ -8,8 +8,17 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "puppeteer": "^24.7.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaovictorcruz/web-scraping-puppeteer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/joaovictorcruz/web-scraping-puppeteer/issues"
+  },
+  "homepage": "https://github.com/joaovictorcruz/web-scraping-puppeteer#readme",
+  "description": ""
 }
